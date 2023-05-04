@@ -1,3 +1,3 @@
 print('hello suka')
 print('kak sam')
-a=('che nado')
+a=('che nado hozyain')
